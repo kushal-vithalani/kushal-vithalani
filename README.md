@@ -33,8 +33,4 @@ AWS Solutions Architect Associate · HashiCorp Terraform Associate
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kushal-vithalani&show_icons=true&theme=default&hide_border=true&count_private=true)
-
----
-
 📫 [LinkedIn](https://www.linkedin.com/in/kushal-vithalani-155157147/) · vithalanikushal1999@gmail.com
