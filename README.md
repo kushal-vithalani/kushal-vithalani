@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @kushal-vithalani, an SRE/DevOps engineer with expertise in AWS cloud and automation using Terraform. On top of that, I am an AWS SA and Terraform certified 
-- 👀 I’m interested in learning new technologies related to cloud and DevOps and to collaborate with people on projects
-- 🌱 I’m currently learning CICD and Kubernetes to manage heavy workloads, also working on cost optimization for cloud Infra.
-- 📫 You can reach me at https://www.linkedin.com/in/kushal-vithalani-155157147/
+### Hi, I'm Kushal Vithalani 👋
 
-![hashicorp-certified-terraform-associate-002 (3)](https://github.com/kushal-vithalani/kushal-vithalani/assets/174924523/21362aba-83e8-4182-ab8f-5d5f30e85fff) ![aws-certified-solutions-architect-associate (2)](https://github.com/kushal-vithalani/kushal-vithalani/assets/174924523/8b073375-cd62-48d6-ba18-e79edb0bd437)
+**SRE / DevOps Engineer** based in Vadodara, India.
+AWS Solutions Architect Associate · HashiCorp Terraform Associate.
 
+---
 
+**What I work on:**
+- Cloud infrastructure on AWS with Terraform (IaC, cost optimization)
+- CI/CD pipelines · Kubernetes workload management
+- Automation that makes infra boring (in the best way)
 
+**Currently learning:** Advanced Kubernetes patterns, GitOps with ArgoCD
 
+---
+
+### Tech stack
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+---
+
+### GitHub stats
+
+![Kushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kushal-vithalani&show_icons=true&theme=default&hide_border=true)
+
+---
+
+📫 [linkedin.com/in/kushal-vithalani-155157147](https://www.linkedin.com/in/kushal-vithalani-155157147/)
