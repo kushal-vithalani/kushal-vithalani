@@ -1,6 +1,6 @@
 ### Hi, I'm Kushal Vithalani 👋
 
-**SRE / DevOps Engineer** based in Vadodara, India.
+**SRE / DevOps Engineer** based in India.
 AWS Solutions Architect Associate · HashiCorp Terraform Associate.
 
 ---
